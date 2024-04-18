@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
       <Nav />
       <Routes>
-        <Route path="/" element={<Home />} ></Route>
+        <Route path="/widget" element={<Home />} ></Route>
       </Routes>
     </BrowserRouter>
   );
