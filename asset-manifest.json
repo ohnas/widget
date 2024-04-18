@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/widget/static/css/main.5ff07e5d.css",
-    "main.js": "/widget/static/js/main.3f77dcac.js",
+    "main.css": "/widget/static/css/main.1f263f4f.css",
+    "main.js": "/widget/static/js/main.99cac9b6.js",
     "static/media/flipclock.png": "/widget/static/media/flipclock.402420fd4d42f1df7498.png",
     "index.html": "/widget/index.html",
-    "main.5ff07e5d.css.map": "/widget/static/css/main.5ff07e5d.css.map",
-    "main.3f77dcac.js.map": "/widget/static/js/main.3f77dcac.js.map"
+    "main.1f263f4f.css.map": "/widget/static/css/main.1f263f4f.css.map",
+    "main.99cac9b6.js.map": "/widget/static/js/main.99cac9b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ff07e5d.css",
-    "static/js/main.3f77dcac.js"
+    "static/css/main.1f263f4f.css",
+    "static/js/main.99cac9b6.js"
   ]
 }
